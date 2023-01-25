@@ -1,10 +1,11 @@
 import Image from "next/image";
 import React from "react";
+import HeaderMenu from "./HeaderMenu";
 
 function Header() {
   return (
-    <header className="">
-      <h1 className="text-3xl font-extralight">Hello world!</h1>
+    <header className="flex flex-row flex-wrap p-2 justify-between">
+      <HeaderMenu />
       <Image
         className="object-contain"
         src="/buy-now-img.png"
