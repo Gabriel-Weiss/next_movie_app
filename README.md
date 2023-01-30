@@ -7,4 +7,4 @@ Api resource available from <a target="_blank" href="https://www.themoviedb.org/
 > Resulting screen
 
 | Home |
-| ---- |
+| <img src="https://user-images.githubusercontent.com/57287837/215542861-85df4896-a7d4-4362-aa87-a489ab4045a5.png" width="700" height="500"> |
